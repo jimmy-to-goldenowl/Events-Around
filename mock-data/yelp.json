@@ -1,0 +1,83 @@
+{
+  "events": [
+    {
+      "id": "yelp-melbourne-jazz-festival-2024",
+      "name": "Melbourne Jazz Festival - Opening Night",
+      "description": "Join us for the opening night of Melbourne's premier jazz festival featuring local and international artists. Experience world-class performances in an intimate venue setting.",
+      "category": "Music",
+      "cost": "$$",
+      "is_free": false,
+      "time_start": "2024-02-15T19:30:00+00:00",
+      "time_end": "2024-02-15T23:00:00+00:00",
+      "is_canceled": false,
+      "event_site_url": "https://example.com/jazz-festival",
+      "image_url": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=400",
+      "interested_count": 234,
+      "attending_count": 89,
+      "location": {
+        "address1": "123 Collins Street",
+        "city": "Melbourne",
+        "zip_code": "3000",
+        "country": "AU",
+        "state": "VIC",
+        "display_address": ["123 Collins Street", "Melbourne VIC 3000"]
+      },
+      "business_id": "jazz-venue-melbourne"
+    },
+    {
+      "id": "yelp-food-wine-festival-2024",
+      "name": "Sydney Food & Wine Festival",
+      "description": "Discover Sydney's culinary scene with tastings from top restaurants, wine pairings, and chef demonstrations. Perfect for food enthusiasts!",
+      "category": "Food & Drink",
+      "cost": "$$$",
+      "is_free": false,
+      "time_start": "2024-02-18T12:00:00+00:00",
+      "time_end": "2024-02-18T18:00:00+00:00",
+      "is_canceled": false,
+      "event_site_url": "https://example.com/food-wine-fest",
+      "image_url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400",
+      "interested_count": 567,
+      "attending_count": 234,
+      "location": {
+        "address1": "Circular Quay",
+        "city": "Sydney",
+        "zip_code": "2000",
+        "country": "AU",
+        "state": "NSW",
+        "display_address": ["Circular Quay", "Sydney NSW 2000"]
+      },
+      "business_id": "circular-quay-events"
+    },
+    {
+      "id": "yelp-comedy-night-brisbane",
+      "name": "Comedy Night at The Powerhouse",
+      "description": "Laugh until your sides hurt with Brisbane's funniest comedians. Stand-up comedy featuring both established and emerging talent.",
+      "category": "Nightlife",
+      "cost": "$",
+      "is_free": false,
+      "time_start": "2024-02-20T20:00:00+00:00",
+      "time_end": "2024-02-20T22:30:00+00:00",
+      "is_canceled": false,
+      "event_site_url": "https://example.com/comedy-night",
+      "image_url": "https://images.unsplash.com/photo-1527224450515-e8ca739ccc5a?w=400",
+      "interested_count": 156,
+      "attending_count": 78,
+      "location": {
+        "address1": "119 Lamington Street",
+        "city": "Brisbane",
+        "zip_code": "4006",
+        "country": "AU",
+        "state": "QLD",
+        "display_address": ["119 Lamington Street", "Brisbane QLD 4006"]
+      },
+      "business_id": "powerhouse-brisbane"
+    }
+  ],
+  "total": 3,
+  "region": {
+    "center": {
+      "latitude": -37.8136,
+      "longitude": 144.9631
+    }
+  }
+}

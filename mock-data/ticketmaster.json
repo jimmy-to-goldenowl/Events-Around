@@ -1,0 +1,264 @@
+{
+  "_embedded": {
+    "events": [
+      {
+        "name": "Taylor Swift | The Eras Tour",
+        "type": "event",
+        "id": "tm-taylor-swift-eras-tour",
+        "test": false,
+        "url": "https://example.com/taylor-swift-eras-tour",
+        "locale": "en-us",
+        "images": [
+          {
+            "ratio": "16_9",
+            "url": "https://images.unsplash.com/photo-1501281668745-f7f57925c3b4?w=400",
+            "width": 640,
+            "height": 360,
+            "fallback": false
+          }
+        ],
+        "sales": {
+          "public": {
+            "startDateTime": "2024-01-10T15:00:00Z",
+            "endDateTime": "2024-03-20T23:00:00Z"
+          }
+        },
+        "dates": {
+          "start": {
+            "localDate": "2024-03-20",
+            "localTime": "19:00:00",
+            "dateTime": "2024-03-20T19:00:00Z"
+          },
+          "timezone": "Australia/Melbourne"
+        },
+        "classifications": [
+          {
+            "primary": true,
+            "segment": {
+              "id": "KZFzniwnSyZfZ7v7nJ",
+              "name": "Music"
+            },
+            "genre": {
+              "id": "KnvZfZ7vAev",
+              "name": "Pop"
+            }
+          }
+        ],
+        "info": "The record-breaking Eras Tour features music from all of Taylor's albums, showcasing her journey through musical eras in this spectacular performance.",
+        "priceRanges": [
+          {
+            "type": "standard",
+            "currency": "AUD",
+            "min": 89.9,
+            "max": 399.9
+          }
+        ],
+        "_embedded": {
+          "venues": [
+            {
+              "name": "Marvel Stadium",
+              "type": "venue",
+              "id": "marvel-stadium-melbourne",
+              "address": {
+                "line1": "740 Bourke Street"
+              },
+              "city": {
+                "name": "Melbourne"
+              },
+              "state": {
+                "name": "Victoria",
+                "stateCode": "VIC"
+              },
+              "country": {
+                "name": "Australia",
+                "countryCode": "AU"
+              },
+              "postalCode": "3008",
+              "location": {
+                "longitude": "144.9478",
+                "latitude": "-37.8175"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "Australian Open Tennis Championship",
+        "type": "event",
+        "id": "tm-australian-open-2024",
+        "test": false,
+        "url": "https://example.com/australian-open",
+        "locale": "en-us",
+        "images": [
+          {
+            "ratio": "16_9",
+            "url": "https://images.unsplash.com/photo-1531315630201-bb15abeb1653?w=400",
+            "width": 640,
+            "height": 360,
+            "fallback": false
+          }
+        ],
+        "sales": {
+          "public": {
+            "startDateTime": "2023-10-01T00:00:00Z",
+            "endDateTime": "2024-02-28T00:00:00Z"
+          }
+        },
+        "dates": {
+          "start": {
+            "localDate": "2024-01-14",
+            "localTime": "10:00:00",
+            "dateTime": "2024-01-14T10:00:00Z"
+          },
+          "end": {
+            "localDate": "2024-01-28",
+            "localTime": "22:00:00",
+            "dateTime": "2024-01-28T22:00:00Z"
+          },
+          "timezone": "Australia/Melbourne"
+        },
+        "classifications": [
+          {
+            "primary": true,
+            "segment": {
+              "id": "KZFzniwnSyZfZ7v7nE",
+              "name": "Sports"
+            },
+            "genre": {
+              "id": "KnvZfZ7vAAv",
+              "name": "Tennis"
+            }
+          }
+        ],
+        "info": "Experience world-class tennis at the first Grand Slam of the year featuring top players from around the globe competing for championship titles.",
+        "priceRanges": [
+          {
+            "type": "standard",
+            "currency": "AUD",
+            "min": 59.0,
+            "max": 899.0
+          }
+        ],
+        "_embedded": {
+          "venues": [
+            {
+              "name": "Melbourne Park",
+              "type": "venue",
+              "id": "melbourne-park",
+              "address": {
+                "line1": "Olympic Boulevard"
+              },
+              "city": {
+                "name": "Melbourne"
+              },
+              "state": {
+                "name": "Victoria",
+                "stateCode": "VIC"
+              },
+              "country": {
+                "name": "Australia",
+                "countryCode": "AU"
+              },
+              "postalCode": "3000",
+              "location": {
+                "longitude": "144.9789",
+                "latitude": "-37.8223"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "Broadway Musical: Hamilton",
+        "type": "event",
+        "id": "tm-hamilton-musical-sydney",
+        "test": false,
+        "url": "https://example.com/hamilton-musical",
+        "locale": "en-us",
+        "images": [
+          {
+            "ratio": "16_9",
+            "url": "https://images.unsplash.com/photo-1503095396549-807759245b35?w=400",
+            "width": 640,
+            "height": 360,
+            "fallback": false
+          }
+        ],
+        "sales": {
+          "public": {
+            "startDateTime": "2023-11-01T00:00:00Z",
+            "endDateTime": "2024-04-30T00:00:00Z"
+          }
+        },
+        "dates": {
+          "start": {
+            "localDate": "2024-02-27",
+            "localTime": "19:30:00",
+            "dateTime": "2024-02-27T19:30:00Z"
+          },
+          "timezone": "Australia/Sydney"
+        },
+        "classifications": [
+          {
+            "primary": true,
+            "segment": {
+              "id": "KZFzniwnSyZfZ7v7na",
+              "name": "Arts & Theatre"
+            },
+            "genre": {
+              "id": "KnvZfZ7v7l1",
+              "name": "Theatre"
+            },
+            "subGenre": {
+              "id": "KZazBEonSMnZfZ7vAve",
+              "name": "Musical"
+            }
+          }
+        ],
+        "info": "The Tony Award-winning musical about Alexander Hamilton, one of America's founding fathers, featuring a score that blends hip-hop, jazz, R&B and Broadway.",
+        "priceRanges": [
+          {
+            "type": "standard",
+            "currency": "AUD",
+            "min": 70.0,
+            "max": 250.0
+          }
+        ],
+        "_embedded": {
+          "venues": [
+            {
+              "name": "Sydney Lyric Theatre",
+              "type": "venue",
+              "id": "sydney-lyric-theatre",
+              "address": {
+                "line1": "55 Pirrama Road, Pyrmont"
+              },
+              "city": {
+                "name": "Sydney"
+              },
+              "state": {
+                "name": "New South Wales",
+                "stateCode": "NSW"
+              },
+              "country": {
+                "name": "Australia",
+                "countryCode": "AU"
+              },
+              "postalCode": "2009",
+              "location": {
+                "longitude": "151.1945",
+                "latitude": "-33.8688"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "page": {
+    "size": 3,
+    "totalElements": 3,
+    "totalPages": 1,
+    "number": 0
+  }
+}
